@@ -2,6 +2,10 @@
 
 Build a chatbot powered by LlamaIndex that augments GPT 3.5 with the contents of the Streamlit docs (or your own data).
 
+Before you start, you must install all the required library modules in the requirements.txt
+
+pip install requirements.txt
+
 ## Overview of the App
 
 <img src="app.png" width="75%">
